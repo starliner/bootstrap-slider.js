@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-slider.js",
+  "version": "0.0.0",
+  "description": "Slider component with different options",
+  "main": "bootstrap-slider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/starliner/bootstrap-slider.js"
+  },
+  "author": "Stefan Petre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Smolla/bootstrap-slider.js/issues"
+  },
+  "homepage": "https://github.com/Smolla/bootstrap-slider.js"
+}
